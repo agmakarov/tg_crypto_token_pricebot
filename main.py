@@ -1,4 +1,3 @@
-from ast import While
 import environs
 from telebot import TeleBot, types
 from pycoingecko import CoinGeckoAPI
